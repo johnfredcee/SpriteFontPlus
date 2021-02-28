@@ -3,6 +3,9 @@
 
 Library that extends functionality of the SpriteFont.
 
+# Fork
+* This is a fork of Sprite Font Plus that lives in my own forked MonoGame repo. It is no longer standalone.
+
 # Features
 * Creation of SpriteFont in the run-time from ttf.
 * Creation of SpriteFont in the run-time from AngelCode BMFont(only XML with single texture works for now).
